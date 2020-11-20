@@ -1,4 +1,5 @@
 {
+  "#": "To redeploy, run `firebase deploy` in this dir",
   "hosting": {
     "cleanUrls": true,
     "public": ".",
